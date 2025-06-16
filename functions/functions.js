@@ -17,7 +17,9 @@ const hello2 = function(){
 
 // Arrow functions
 
-const hello3 = () => console.log("This is an arrow funtion");
+const hello3 = () => console.log("arrow funtion");
+
+
 // hello3()
 
 
@@ -56,4 +58,6 @@ function sample(name, callback){
 sample("Mike", logHelloWorld)
 
 
+
+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
 
