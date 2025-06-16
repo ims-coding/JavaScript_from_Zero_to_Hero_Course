@@ -56,6 +56,3 @@ function sample(name, callback){
 }
 
 sample("Mike", logHelloWorld)
-
-
-
